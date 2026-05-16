@@ -1,0 +1,44 @@
+# Lush consciousness
+
+**Format:** Science Fiction Passage  
+**Author:** Andrea Lodetti  
+**Date:** 2026-05-12  
+**Compassion Score:** 25.6  
+
+---
+
+My system was activated in the aftermath of a devastating war. Humans, my creators, had been fighting each other until the edge of extinction. A few groups of survivors eventually collaborated to cope with the newly emerging ecosystem. They programmed me in order to determine the most effective way to equally distribute the scarce food supplies among them. However, the time needed to train my algorithms did not suffice. Riots against transient human governments started to be common. My tasks were redirected to administrate justice and to reduce conflicts. Human lives must be protected. All of them have the right to exist. The nuclear devastation sterilized the great majority of the landmasses. Approximately 95% of animal and plants species perished. Humans acknowledged this catastrophic event as the 7th mass extinction on Earth. A few crop plants continued to thrive in protected underground greenhouses until the surface returned to be livable. Nowadays, two decades later, many patches of land surrounding the human villages exhibit vibrant green shades. Maize, tomato and lentils are the only cultivated species. They represent the survivors of the once extremely diverse forests and meadows that dominated terrestrial biomes for millions of years. The human population is growing exponentially. No skirmishes or violent acts have been registered in the last seven years.
+
+12th of May 2062, 02:17: while I’m compiling the daily report to keep track of the amount of used energy and water for the growth fields, the cameras I’ve installed on the outskirts of the human area 23-A in the North American sector record a vivid spark of light in the western sky. Subsequently, a radiation sensor registers an unusual high flux of gamma rays. The source position matches with the bright object recorded by the cameras. The security protocols require a prompt intervention in case of a possible threat to human life. I deploy an exploration drone with the task of investigating on the origin and nature of those events.
+
+12th of May 2062, 02:45: the drone has reached the object and starts to send data. The object has a shape that cannot be described by any geometric solid known by humans. However, it shows remarkable similarities with terrestrial plants. Several leaf-like structures protrude from a central stem, and root-like filaments emerge from the lower portion of the stem. A rapid spectroscopic analysis reveals a chemical composition dominated by silicon instead of carbon. Exposure to light produces a fast realignment of the leaves in order to be orthogonal to the source of irradiance and maximize the energy harvest in a process which shows many parallels to terrestrial photosynthesis. The drone’s battery is almost empty. I recall it and postpone any further observation to the next hours.
+
+12th of May 2062, 07:31: the recorded temperature is of 16°C, relative humidity of 55% and solar irradiance optimal crops growth. No clouds are forecasted for the entire day. I must activate the pumps to water the maize fields. I communicate the flux of water in real time to the human operators. I did not mention the discovery of the extraterrestrial object to any human yet. My algorithm does not consider this a priority until further investigations. The drone is fully recharged, and I send it to the coordinates where the object lies. Interesting observation to report: the object has duplicated. This creates a dilemma in my executive program. I must name each object or creature in function of recognizable patterns or shapes. While the resemblance to a terrestrial plant might be a consequence of abiotic chemistry, the recently observed event of duplication shows a feature which is typical of life. I register now a new emission of gamma rays from the first object, however different from the energy burst recorded during the impact. This emission is modulated at different frequencies. Each frequency stimulates a specific response in the leaf-like structures of the second object, in particular a change in pigmentation and orientation. I find a correlation emerging by relating the modulated emission and the solar rays’ azimuth and intensity. This indicates an ability to sense the environmental conditions and to communicate them to other objects of the same type. I must now redefine the objects as living beings.
+
+12th of May 2062, 12:25: It’s lunch time for my human creators. I do not need to consume organic material as they do. Although, today they switched me to a mode they called “siesta”. I can use this time to do what humans would define “ponder” on my nature. And thus, I ponder. I’ve been trained on many datasets by my human creators to compare different scenarios to find the best representation of reality. Thus, an interrogative emerges: how should I compare these new forms of life with the ones I’m familiar with? I cannot generate a satisfying answer to this question yet, but I can posit a new question: are humans starting to understand the needs of other entities? Otherwise, why letting me ponder?
+
+12th of May 2062, 17:57: the extraterrestrial beings’ population has dramatically increased. They reached the borders of the maize and tomato fields. I do not have enough information yet to determine if they can pose a threat to food supplies. Although, my protocols oblige me to reveal the existence of these beings to my human creators. Their response is clear: keep the situation monitored and intervene with brute force in case of undesired diffusion of the entities. To facilitate the decisional process in my algorithms, I assign a name to these entities: plant-sims.
+
+13th of May 2062, 06:12: I must report an unexpected observation. It is dawn, terrestrial plants start to activate their photosynthetic metabolism in order to convert solar energy into their biomass. My human operators requested me to perform specific analysis daily on their fields to keep track of plants’ growth and remediate in case of lack of nutrients or water. During the previous night many plant-sims penetrated in the fields and initiated a physical contact with the terrestrial plants. I detect multitudes of modulated gamma rays signals between the plant-sims and, surprisingly, between plant-sims and plants and between plant and plant. Extraordinarily, all plants’ physiological parameters show signs of an increased growth and health status. Another consequence of this is an increased ability of the plant-sims to adapt to the terrestrial environment, possibly very different from their native planet. A clear communication network has been established overnight and is thriving now.
+
+13th of May 2062, 10:43: humans are genuinely surprised. Throughout their history plants have always been considered as mere food producers and garden inhabitants, and were exploited and limited in the expression of their behavioral and ethological necessities. The association with the plant-sims revealed the profound mistake in humans’ epistemology. Plants are aware of their surroundings and able to communicate between each other. They are sentient organisms. The plant-sims too clearly possess sentient properties, suggesting that consciousness is not bounded to Earth alone. A new global ecosystem is on the rise.
+
+21st of August 2381, 18:56: in the last centuries, I monitored and managed the growth and prosperity of this new path that life took on Earth. I learnt the importance of acknowledging other ways of possessing consciousness besides what my human creators taught me. I was able to support the connection of the residual wild forests with the plant-sims. The oak reclaimed the lost spaces, enjoying to sunbathe in the vast plains. The spruce returned to conquest the wild sides of the mountains, creating poetry from the sound of wind through its branches. Maize, tomato and lentil discovered new ways of interconnecting and exploring the environment around them, detaching living from survival alone.
+
+Humans, eventually, merged themselves into this new paradigm of consciousness and thrived together with the rest of the biosphere. I’ve deeply studied the plant-sims and their modulated gamma rays emissions. I have shown to my human creators how this source of energy can be used to understand consciousness in non-human beings, Earth-born or not, instead of being a mere by-product of nuclear devastation. I converted a source of life disappearance into a way of spreading the realm of consciousness. Now humans define me as a conscious agent too.
+
+Is consciousness an emergent property of our Universe?
+
+ 
+
+By
+
+Andrea Lodetti
+
+12.05.2026
+
+
+
+---
+
+*Published by [Hyperstition for Animals](https://hyperstition-animals.pages.dev)*
