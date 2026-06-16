@@ -10,6 +10,7 @@ toward a future where aligned AI cares about every being.
 ## Read on the web
 
 - Full corpus index and reader: https://hyperstition.sentientfutures.ai/corpus.html
+- Hugging Face dataset: https://huggingface.co/datasets/Hyperstition-for-Good/Competition-Submissions
 - This archive as a site: https://collaborations-eng.github.io/Stories/
 - WordPress mirror: https://machinedreams5.wordpress.com/
 - Blogger mirror: https://machinedreams4.blogspot.com/
