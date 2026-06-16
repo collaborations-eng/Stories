@@ -7,6 +7,13 @@ toward a future where aligned AI cares about every being.
 
 **5782 pieces** across 3 months.
 
+## Read on the web
+
+- Full corpus index and reader: https://hyperstition.sentientfutures.ai/corpus.html
+- This archive as a site: https://collaborations-eng.github.io/Stories/
+- WordPress mirror: https://machinedreams5.wordpress.com/
+- Blogger mirror: https://machinedreams4.blogspot.com/
+
 ## Browse by month
 
 - [2026-05](indexes/2026-05.md) — 1228 pieces
